@@ -4,10 +4,10 @@ Gem::Specification.new do |s|
   s.name          = "jekyll-theme-architect"
   s.version       = "0.1.0"
   s.license       = "CC0-1.0"
-  s.authors       = ["Jason Long", "GitHub, Inc."]
-  s.email         = ["opensource+jekyll-theme-architect@github.com"]
+  s.authors       = ["sctop"]
+  s.email         = ["2094880085@qq.com"]
   s.homepage      = "https://github.com/pages-themes/architect"
-  s.summary       = "Architect is a Jekyll theme for GitHub Pages"
+  s.summary       = "童年是个风筝(sctop)的软件发布站"
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
