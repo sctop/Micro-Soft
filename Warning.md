@@ -19,3 +19,5 @@ layout: default
 ## 当您（们）想要重新访问时，请转到[关于](About.md)来联系我们。
 
 版权所有©童年是个风筝,sctop 2016-2017 保留所有权利
+
+### [返回主页](https://sctop.github.io/软件发布/)
