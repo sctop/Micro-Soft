@@ -2,6 +2,12 @@
 layout: default
 ---
 
+作者的其它网站：
+
+[Cortana System工作室官网（工作室已解散，网站保留）](http://CortanaSystem.icoc.me/)   [sctop/童年是个风筝的博客](https://sctop.github.io/)
+
+------
+
 这里是童年是个风筝软件发布站。在这里将发布童年是个风筝的软件和其它的软件。
 
 版权所有©童年是个风筝,sctop 2016-2017 保留所有权利
