@@ -4,7 +4,7 @@ layout: default
 
 友情链接：
 
-[Cortana System工作室官网（工作室已解散，网站保留）](http://CortanaSystem.icoc.me/) [sctop/童年是个风筝的博客](https://sctop.github.io/) [空白君官方博客](https://a2791595978.github.io/) [空白君的二级域名](https://a2791595978.github.io/Kongbai/)
+[Cortana System工作室官网（工作室已解散，网站保留）](http://CortanaSystem.icoc.me/) [sctop/童年是个风筝的博客](https://sctop.github.io/) [空白君官方博客](https://a2791595978.github.io/) [空白君的二级域名](https://a2791595978.github.io/Kongbai/) [金坷垃官网（伪）](http://www.shengdiyage.us/)
 
 ------
 
