@@ -43,6 +43,6 @@ layout: default
 
 那么，我大C语言的战绩如何呢？为此我写了个C语言程序（Visual Studio 2017和C-Free运行通过，后缀.cpp，.c实测无效= =）
 
-下载地址（请使用360安全浏览器或迅雷等下载工具下载；或直接右键选择另存为选项）：https://raw.githubusercontent.com/sctop/Micro-Soft/master/WebFile/%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E7%AE%97%E6%B3%95%E7%AD%9B%E9%80%891~100000%E7%9A%84%E8%B4%A8%E6%95%B0%EF%BC%8C%E6%AF%94%E8%BE%83%E6%97%B6%E9%97%B4%E5%92%8C%E8%B5%84%E6%BA%90%E5%8D%A0%E7%94%A8.cpp
+下载地址（请使用360安全浏览器或迅雷等下载工具下载；或直接右键选择另存为选项）：[最愚蠢的算法筛选1~100000的质数，比较时间和资源占用.cpp](https://raw.githubusercontent.com/sctop/Micro-Soft/master/WebFile/%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E7%AE%97%E6%B3%95%E7%AD%9B%E9%80%891~100000%E7%9A%84%E8%B4%A8%E6%95%B0%EF%BC%8C%E6%AF%94%E8%BE%83%E6%97%B6%E9%97%B4%E5%92%8C%E8%B5%84%E6%BA%90%E5%8D%A0%E7%94%A8.cpp)
 
 --------------
