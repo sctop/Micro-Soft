@@ -39,3 +39,13 @@ layout: default
 --------
 
 [2017年08月全部发布产品](/web/2017-08.md)
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?348d0c522555d75ba000b04df1c66433";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
