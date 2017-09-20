@@ -38,4 +38,9 @@ layout: default
 
 --------
 
+无法运行？点击此处下载2017的Visual C++运行库：
+[Visual C++ 2017运行库](/WebFile/VC2017runtime.exe)
+
+--------
+
 [2017年08月全部发布产品](/web/2017-08.md)
