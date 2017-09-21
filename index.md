@@ -38,6 +38,10 @@ layout: default
 
 --------
 
+无法运行exe？请下载运行库：[VisualC++2017运行库.exe](/WebFile/VC2017runtime.exe)
+
+--------
+
 [2017年08月全部发布产品](/web/2017-08.md)
 
 <script>
