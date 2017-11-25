@@ -38,9 +38,27 @@ layout: default
 
 --------
 
+<<<<<<< HEAD
 无法运行？点击此处下载2017的Visual C++运行库：
 [Visual C++ 2017运行库](/WebFile/VC2017runtime.exe)
 
 --------
 
 [2017年08月全部发布产品](/web/2017-08.md)
+=======
+无法运行exe？请下载运行库：[VisualC++2017运行库.exe](/WebFile/VC2017runtime.exe)
+
+--------
+
+[2017年08月全部发布产品](/web/2017-08.md)
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?348d0c522555d75ba000b04df1c66433";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+>>>>>>> 94bbe46616bcddd22f66d1422cf3e20a3fe0b7ac
