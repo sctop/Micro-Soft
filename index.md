@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 
@@ -46,7 +46,7 @@ layout: default
 
 [2017年08月全部发布产品](/web/2017-08.md)
 =======
-无法运行exe？请下载运行库：[VisualC++2017运行库.exe](/WebFile/VC2017runtime.exe)
+无法运行exe？请下载运行库：[VisualC++2017运行库.exe](https://github.com/sctop/WebSideFile/raw/master/Micro-Soft/VC2017runtime.exe)
 
 --------
 
@@ -61,4 +61,3 @@ var _hmt = _hmt || [];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
->>>>>>> 94bbe46616bcddd22f66d1422cf3e20a3fe0b7ac
